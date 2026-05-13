@@ -1,7 +1,0 @@
-name=input("Enter student's name:")
-age=input("Enter student's age:")
-course=input("Enter student'scourse:")
-print("\n---student Details---")
-print(f"Name:{name}")
-print(f"age:{age}")
-print(f"course:{course}")
